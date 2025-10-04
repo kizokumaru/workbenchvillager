@@ -1,0 +1,13 @@
+{
+  "itemGroup.workbenchvillager": "Example Mod Tab",
+  "block.workbenchvillager.example_block": "Example Block",
+  "item.workbenchvillager.example_item": "Example Item",
+
+  "workbenchvillager.configuration.title": "WorkBenchVillager Configs",
+  "workbenchvillager.configuration.section.workbenchvillager.common.toml": "WorkBenchVillager Configs",
+  "workbenchvillager.configuration.section.workbenchvillager.common.toml.title": "WorkBenchVillager Configs",
+  "workbenchvillager.configuration.items": "Item List",
+  "workbenchvillager.configuration.logDirtBlock": "Log Dirt Block",
+  "workbenchvillager.configuration.magicNumberIntroduction": "Magic Number Text",
+  "workbenchvillager.configuration.magicNumber": "Magic Number"
+}
